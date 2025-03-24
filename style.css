@@ -37,7 +37,7 @@ menu{
     display: flex;
 }
 
-@media (max-width: 420px){
+@media (max-width: 392px){
 .menu{
     display: none;
     flex-direction: column;
